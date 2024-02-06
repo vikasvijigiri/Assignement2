@@ -1,3 +1,5 @@
-# Assignement2
+# Assignement No.2 
 
-Here in the space all the assignements from IBM data science projects and assignments will be uploaded upon finishing.
+Final exam of course module 2:
+
+Title: Basic of Jupyter Notebook
